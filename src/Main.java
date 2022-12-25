@@ -115,6 +115,5 @@ public class Main {
         System.out.println("Зарплата Маши за год с повышением зарплаты, составляет: " + yearPlusMasha);
         System.out.println("Зарплата Дениса за год с повышением зарплаты, составляет: " + yearPlusDenis);
         System.out.println("Зарплата Кристины за год с повышением зарплаты, составляет: " + yearPlusKristina);
-
     }
 }
